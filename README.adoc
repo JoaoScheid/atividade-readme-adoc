@@ -7,3 +7,13 @@
 O Sistema de Gerenciamento de Biblioteca foi desenvolvido para facilitar o processo de empréstimo, devolução e gerenciamento de livros em uma biblioteca. Através da aplicação, é possível
 gerenciar empréstimos de livros, disponibilidade de exemplares, cadastro de usuários e gerar relatórios deatividades. O sistema visa melhorar a experiência do usuário e otimizar a
 administração da biblioteca, garantindo uma gestão eficiente e eficaz.
+
+== 🚀 Recursos
+O BiblioGest oferece uma variedade de recursos para facilitar o gerenciamento de uma biblioteca:
+
+* 📖 **Cadastro e gerenciamento de livros com informações detalhadas (título, autor, ISBN, etc.).
+* ✅ **Criação e modificação de empréstimos de livros, com opções de data de empréstimo e devolução.
+* 👁️‍🗨️ **Visualização da disponibilidade dos livros em tempo real.
+*  🗎 **Geração de relatórios de empréstimos, devoluções e multas.
+* 🔔 **Notificação de usuários sobre empréstimos e devoluções.
+* 👥 **Sistema de login e autenticação para administradores e usuários.
