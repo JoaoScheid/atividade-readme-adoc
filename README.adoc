@@ -1,4 +1,4 @@
-== 📚 BiblioGest - Gerenciador de biblioteca
+= 📚 BiblioGest - Gerenciador de biblioteca
 :icons: font
 :toc: left
 :toclevels: 2
